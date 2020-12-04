@@ -38,4 +38,4 @@
   ![Image of me](https://avatars1.githubusercontent.com/u/69092983?v=4)
   - Amber Chiodini
   - [GitHub Profile](https://github.com/amberchiodini)
-  - [Email](amber.park@northwestern.edu)
+  - [GitHub Email](amber.park@northwestern.edu)
