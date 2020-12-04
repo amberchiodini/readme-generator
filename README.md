@@ -29,14 +29,6 @@
   
   MIT
 
-  ## Contribution
-
-  
-
-  ## Test 
-
-  
-
   ## Repository 
 
   [Project Repo](readme-generator)
