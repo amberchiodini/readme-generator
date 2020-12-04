@@ -23,7 +23,8 @@
   ## Usage 
 
   When you run node index.js, you will be prompted to go through a series of questions. The answers will then be used to generate a README.md file with your GitHub profile picture and email. 
-
+  ![Alt Text](https://user-images.githubusercontent.com/69092983/101120183-99758a00-35b2-11eb-8891-1f445bc3c474.gif)
+  
   ## License 
   
   MIT
